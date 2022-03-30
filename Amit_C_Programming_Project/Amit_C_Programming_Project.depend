@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648479715 source:e:\cppworkspace\amit_c_programming_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+	<stdbool.h>
+
